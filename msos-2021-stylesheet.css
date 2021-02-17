@@ -75,4 +75,8 @@ h1, h2, h3, h4, h5, h6 {
  
  #poweredByNGIN a:after {
      filter: grayscale(100%) brightness(300%); }
+
+/* Font Awesome */
+.fa, .far, .fas {
+    text-align: center; width: 100%; } 
  
