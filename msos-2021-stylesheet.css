@@ -2,47 +2,44 @@ h1, h2, h3, h4, h5, h6 {
     color: #000; }
      
  p { 
-     font-size: 16px; 
-     color: #000; }
+    font-size: 16px; 
+    color: #000; }
  
  
  /* Top Header */
  #topNav .theme-main-nav { 
-     background-color: #000 !important; }
+    background-color: #000 !important; }
  
  #topNav .theme-main-nav .theme-nav {
-     line-height: 45px; }
+    line-height: 45px; }
  #topNav .theme-nav-style-dropdown > .theme-nav-item {
-     border: none !important; }
+    border: none !important; }
  }
  #topNav .theme-nav-style-dropdown~.theme-nav-dropdown {
-     border-bottom: 3px solid #FA5C07; }
+    border-bottom: 3px solid #FA5C07; }
  
  #topNav .theme-main-nav .theme-nav > .theme-nav-item > .theme-nav-link:not(x):hover {
-   color: #FA5C07 !important;
+    color: #FA5C07 !important;
  }
  
  #topNav .theme-nav-style-dropdown ~ .theme-nav-dropdown > .theme-nav-item > .theme-nav-link:not(x):hover {
-   text-decoration: none;
-   background: #FA5C07;
+    text-decoration: none;
+    background: #FA5C07;
  }
  
  .theme-search-wrapper {
-     display: none !important;
+    display: none !important;
  }
 
 /* Logo */
 
 .no-sub-nav #sn-site-logo {
-    background-color: transparent !important;
-}
-
+    background-color: transparent !important;} 
  
- /* Remove Image Border */  
- .heroPhotoElement img {
-     border: none !important; }
+/* Custom Image */  
+.heroPhotoElement img {
+    border: none !important; }
  
-
 /* Social Media Icons */
 .sn-social-media-list.lg {
     font-size: 35px;
@@ -55,28 +52,46 @@ h1, h2, h3, h4, h5, h6 {
 
  /* Footer Privacy */
 .snFooterContainer {
-     max-width: 100% !important;
-     background-color: #000000;
-     color: #fff;
-     margin-top: 50px; }
+    max-width: 100% !important;
+    background-color: #000000;
+    color: #fff;
+    margin-top: 50px; }
  
  #siteFooter {
-     width: 90% !important;
-      max-width: 1000px !important; }
+    width: 90% !important;
+    max-width: 1000px !important; }
  
  .se-footer-link a {
-     color: #fff !important; }
+    color: #fff !important; }
  
  .se-footer-copyright a {
-     color: #9e9e9e !important; }
+    color: #9e9e9e !important; }
  
  #siteContainer, #siteContainer #siteContainer.container-fluid {
-     padding-bottom: 0px !important; }
+    padding-bottom: 0px !important; }
  
  #poweredByNGIN a:after {
-     filter: grayscale(100%) brightness(300%); }
+    filter: grayscale(100%) brightness(300%); }
 
 /* Font Awesome */
 .fa, .far, .fas {
     text-align: center; width: 100%; } 
  
+/* Home Page */
+.sn-call-to-action:before,
+.sn-call-to-action:after {
+    display: none; }
+
+.sn-call-to-action-title, call-to-action-header {
+    font-size: 40px !important; }
+
+
+/* Our Story Page */
+.our-story-msos-logo {
+    width: 80% }
+
+.our-story-quote {
+    padding-top: 10px; }
+
+.cutline {
+    text-align: right; }
