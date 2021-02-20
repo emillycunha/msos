@@ -11,7 +11,10 @@ h6 { font-size: 16px; }
  p { 
     font-size: 16px; 
     color: #000; }
- 
+
+ /* text box margin */
+.left-right-margin {
+    padding: 50px; }
  
  /* Top Header */
  #topNav .theme-main-nav { 
