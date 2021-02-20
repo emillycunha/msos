@@ -12,9 +12,18 @@ h6 { font-size: 16px; }
     font-size: 16px; 
     color: #000; }
 
- /* text box margin */
-.left-right-margin {
+/* text box margin */
+.margin-ten {
+    padding: 10px; }
+.margin-twenty {
+    padding: 20px; }
+.margin-thirty {
+    padding: 30px; }
+.margin-forty {
+    padding: 40px; }
+.margin-fifty {
     padding: 50px; }
+
  
  /* Top Header */
  #topNav .theme-main-nav { 
