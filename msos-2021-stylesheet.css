@@ -1,6 +1,13 @@
 h1, h2, h3, h4, h5, h6 {
     color: #000; }
-     
+
+h1 { font-size: 52px; }
+h2 { font-size: 48px; }
+h3 { font-size: 32px; text-transform: none; }
+h4 { font-size: 24px; text-transform: none; }
+h5 { font-size: 20px; text-transform: none; }
+h6 { font-size: 16px; }
+   
  p { 
     font-size: 16px; 
     color: #000; }
@@ -14,22 +21,18 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 45px; }
  #topNav .theme-nav-style-dropdown > .theme-nav-item {
     border: none !important; }
- }
  #topNav .theme-nav-style-dropdown~.theme-nav-dropdown {
     border-bottom: 3px solid #FA5C07; }
  
  #topNav .theme-main-nav .theme-nav > .theme-nav-item > .theme-nav-link:not(x):hover {
-    color: #FA5C07 !important;
- }
+    color: #FA5C07 !important; }
  
  #topNav .theme-nav-style-dropdown ~ .theme-nav-dropdown > .theme-nav-item > .theme-nav-link:not(x):hover {
     text-decoration: none;
-    background: #FA5C07;
- }
+    background: #FA5C07; }
  
  .theme-search-wrapper {
-    display: none !important;
- }
+    display: none !important; }
 
 /* Logo */
 
