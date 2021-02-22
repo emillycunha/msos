@@ -110,8 +110,8 @@ p {
 .sn-call-to-action:after {
    display: none; }
 
-.sn-call-to-action-title, call-to-action-header {
-   font-size: 40px !important; }
+.call-to-action-header .sn-call-to-action-title {
+    font-size: 40px !important; }
 
 
 /* Our Story Page */
