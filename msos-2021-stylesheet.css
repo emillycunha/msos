@@ -24,6 +24,18 @@ h6 { font-size: 16px; }
 .margin-fifty {
     padding: 50px; }
 
+@media(max-width: 500px) {
+.margin-ten {
+    padding: 10px 5px;}
+.margin-twenty {
+    padding: 20px 5px;}
+.margin-thirty {
+    padding: 30px 5px;}
+.margin-forty {
+    padding: 40px 5px;}
+.margin-fifty {
+  padding: 50px 5px; }}
+
  
  /* Top Header */
  #topNav .theme-main-nav { 
