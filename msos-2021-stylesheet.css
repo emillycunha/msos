@@ -116,8 +116,10 @@ h6 { font-size: 16px; }
 
 
 /* Our Story Page */
-.our-story-msos-logo {
-    width: 80% }
-
 .cutline {
     text-align: right; }
+
+/* Coaches Slider */
+.sn-media-slider .slider.top-left-paging {
+  margin: 0px !important; }
+
