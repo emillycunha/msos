@@ -126,3 +126,6 @@ p {
 .page-header-img .sn-call-to-action-title {
    font-size: 80px !important; 
    margin: 0px; }
+@media(max-width: 500px) {
+.page-header-img .sn-call-to-action-title {
+    font-size: 40px !important; }}
