@@ -6,10 +6,10 @@ h2 { font-size: 48px; }
 h3 { font-size: 32px; text-transform: none; }
 h4 { font-size: 24px; text-transform: none; }
 h5 { font-size: 20px; text-transform: none; }
-h6 { font-size: 16px; }
+h6 { font-size: 18px; }
   
 p { 
-   font-size: 16px; 
+   font-size: 18px; 
    color: #000; }
 
 /* text box margin */
