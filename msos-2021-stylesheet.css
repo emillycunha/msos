@@ -152,7 +152,7 @@ p {
 
 /* Federation Logo - Page Footer */
 .partners-container {
-  margin: 0px 100px !important; }
+  padding: 0px 100px !important; }
 
 .partners-logo .textBlockElement img {
   display: initial !important; }
