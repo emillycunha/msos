@@ -166,3 +166,13 @@ p {
 
 .our-aim-container .margin-fifty {
    padding-bottom: 0px !important; }
+
+/*** Button Link ***/
+.linkElement h4 a {
+   text-align: center;
+   font-size: 18px;
+   line-height: 1.3; }
+
+.linkElement .goToLink:after,
+.linkElement .emailLink:after {
+   margin: 0 0 0 10px; }
