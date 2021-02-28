@@ -158,11 +158,11 @@ p {
   display: initial !important; }
 
 /* Our Aim 2029 */
-.our-aim-container h2{
+.our-aim-container .textBlockElement  h2{
    font-size: calc(30px + (70 - 30) * ((100vw - 300px) / (2000 - 300))) !important; }
 
-.our-aim-container span{
-   font-size: calc(120px + (70 - 30) * ((100vw - 300px) / (2000 - 300))) !important;}
+.our-aim-container .textBlockElement  span{
+   font-size: calc(120px + (70 - 30) * ((100vw - 300px) / (2000 - 300))) !important; }
 
 .our-aim-container .margin-fifty {
    padding-bottom: 0px !important; }
