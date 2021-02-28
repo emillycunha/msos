@@ -159,10 +159,10 @@ p {
 
 /* Our Aim 2029 */
 .our-aim-container .textBlockElement  h2{
-   font-size: calc(30px + (70 - 30) * ((100vw - 300px) / (2000 - 300))) !important; }
+   font-size: calc(25px + (50 - 25) * ((100vw - 300px) / (2000 - 300))) !important; }
 
 .our-aim-container .textBlockElement  span{
-   font-size: calc(120px + (70 - 30) * ((100vw - 300px) / (2000 - 300))) !important; }
+   font-size: calc(100px + (180 - 100) * ((100vw - 300px) / (2000 - 300))) !important; }
 
 .our-aim-container .margin-fifty {
    padding-bottom: 0px !important; }
