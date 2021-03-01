@@ -157,6 +157,15 @@ p {
 .partners-logo .textBlockElement img {
   display: initial !important; }
 
+@media(max-width: 650px) {
+.partners-container {
+  padding: 0px !important;}
+  
+.partners-logo .textBlockElement img {
+  height: 50px !important;
+  width: 50px !important; }}
+
+
 /* Our Aim 2029 */
 .our-aim-container .textBlockElement  h2{
    font-size: calc(25px + (50 - 25) * ((100vw - 300px) / (2000 - 300))) !important; }
