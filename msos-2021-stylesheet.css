@@ -199,11 +199,13 @@ p {
 .margin-thirty .commentsAndMore .readMore {
   display: none; }
 
+.collectorNews .teaser,
 .condensed .teaser {
   text-transform: none; }
 
 .margin-twenty .newsAggregatorElement .extendedOptions,
-.margin-twenty .newsAggregatorElement .item {
+.margin-twenty .newsAggregatorElement .item,
+.collectorNews .item {
   border-style: solid;
   border-top-width: 1px !important;
   border-image: none; }
