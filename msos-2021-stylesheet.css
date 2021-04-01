@@ -219,3 +219,7 @@ p {
 @media(min-width: 1000px) {
 .mobile-bottom-menu {
   display: none; }
+
+ #siteContainer #displayBodyHeader:not(.displayBodyHeader-image) {
+  padding-left: 30px !important;
+  border-bottom: 2px solid #f15e22; }  
