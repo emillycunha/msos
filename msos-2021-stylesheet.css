@@ -37,7 +37,6 @@ p {
 .margin-fifty {
  padding: 50px 5px; }}
 
-
 /* Top Header */
 #topNav .theme-main-nav { 
    background-color: #000 !important; }
@@ -112,7 +111,6 @@ p {
 .call-to-action-header .sn-call-to-action-title {
    font-size: 40px !important; }
 
-
 /* Our Story Page */
 .cutline {
    text-align: right; }
@@ -165,17 +163,6 @@ p {
   height: 50px !important;
   width: 50px !important; }}
 
-
-/* Our Aim 2029 */
-.our-aim-container .textBlockElement  h2{
-   font-size: calc(25px + (50 - 25) * ((100vw - 300px) / (2000 - 300))) !important; }
-
-.our-aim-container .textBlockElement  span{
-   font-size: calc(100px + (180 - 100) * ((100vw - 300px) / (2000 - 300))) !important; }
-
-.our-aim-container .margin-fifty {
-   padding-bottom: 0px !important; }
-
 /*** Button Link ***/
 .linkElement h4 a {
    text-align: center;
@@ -222,3 +209,13 @@ p {
 
 .margin-thirty .eventAggregatorElement .extendedOptions {
   border-top: 1px solid #ddd !important; }
+
+/*** Line Divider ***/
+.divider-line .hrElement {
+  background: #ddd 1px !important;
+  height: 1px !important; }
+
+/*** Mobile Bottom Page Menu ***/
+@media(min-width: 1000px) {
+.mobile-bottom-menu {
+  display: none; }
