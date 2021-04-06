@@ -220,8 +220,7 @@ p {
 
 /*** Hide SportsEngine Header ***/
 .nb-container, div#ngin-bar {
-  height: 10px !important;
-  background: #f15e22; }
+  height: 0px !important; }
 
-.nb-main {
+.nb-sportngin,.nb-signin {
   display: none !important; }
