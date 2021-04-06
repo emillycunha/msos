@@ -78,18 +78,17 @@ p {
 .snFooterContainer {
    max-width: 100% !important;
    background-color: #000000;
-   color: #fff;
-   margin-top: 50px; }
+   color: #6d6d6d; }
 
 #siteFooter {
-   width: 90% !important;
+   width: 70% !important;
    max-width: 1000px !important; }
 
 .se-footer-link a {
    color: #fff !important; }
 
 .se-footer-copyright a {
-   color: #9e9e9e !important; }
+   color: #f15e22 !important; }
 
 #siteContainer, #siteContainer #siteContainer.container-fluid {
    padding-bottom: 0px !important; }
@@ -215,11 +214,14 @@ p {
   background: #ddd 1px !important;
   height: 1px !important; }
 
-/*** Mobile Bottom Page Menu ***/
-@media(min-width: 1000px) {
-.mobile-bottom-menu {
-  display: none; }
-
- #siteContainer #displayBodyHeader:not(.displayBodyHeader-image) {
+#siteContainer #displayBodyHeader:not(.displayBodyHeader-image) {
   padding-left: 30px !important;
   border-bottom: 2px solid #f15e22; }  
+
+/*** Hide SportsEngine Header ***/
+.nb-container, div#ngin-bar {
+  height: 10px !important;
+  background: #f15e22; }
+
+.nb-main {
+  display: none !important; }
