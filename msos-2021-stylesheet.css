@@ -217,10 +217,3 @@ p {
 #siteContainer #displayBodyHeader:not(.displayBodyHeader-image) {
   padding-left: 30px !important;
   border-bottom: 2px solid #f15e22; }  
-
-/*** Hide SportsEngine Header ***/
-.nb-container, div#ngin-bar {
-  height: 0px !important; }
-
-.nb-sportngin,.nb-signin {
-  display: none !important; }
