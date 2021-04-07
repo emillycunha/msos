@@ -108,7 +108,10 @@ p {
    display: none; }
 
 .call-to-action-header .sn-call-to-action-title {
-   font-size: calc(40px + (70 - 30) * ((100vw - 300px) / (2000 - 300)));
+   font-size: 40px; }
+   
+.call-to-action-header-alt .sn-call-to-action-title {   
+   font-size: calc(30px + (50 - 25) * ((100vw - 300px) / (2000 - 300)));
    padding: 0px 50px; }
 
 /* Our Story Page */
