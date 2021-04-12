@@ -76,19 +76,19 @@ p {
 
 /* Footer Privacy */
 .snFooterContainer {
-   max-width: 100% !important;
-   background-color: #fff;
-   color: #6d6d6d; }
+   max-width: 80% !important;
+   background-color: #000;
+   color: #6c6c6c; }
 
 #siteFooter {
-   width: 70% !important;
-   max-width: 1000px !important; }
+   width: 100% !important;
+   max-width: 800px !important; }
 
 .se-footer-link a {
-   color: #fff !important; }
+   color: #000 !important; }
 
 .se-footer-copyright a {
-   color: #f15e22 !important; }
+   color: #ddd !important; }
 
 #siteContainer, #siteContainer #siteContainer.container-fluid {
    padding-bottom: 0px !important; }
@@ -221,3 +221,10 @@ p {
 #siteContainer #displayBodyHeader:not(.displayBodyHeader-image) {
   padding-left: 30px !important;
   border-bottom: 2px solid #f15e22; }  
+
+html.nav-fixed .site-background {
+  bottom: 0px; }
+
+/*** remove sportsengine logo from top bar ***/
+[class*=nb-sportngin]:not(.nb-sportngin--mobile){
+  display: none !important; }
