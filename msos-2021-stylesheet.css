@@ -228,3 +228,19 @@ html.nav-fixed .site-background {
 /*** remove sportsengine logo from top bar ***/
 [class*=nb-sportngin]:not(.nb-sportngin--mobile){
   display: none !important; }
+
+.aggHeader,
+.eventAggregatorElement .aggHeader {
+  display: block;
+  max-width: 100%;
+  text-align: left; }
+
+.news-agg-no-img .newsAggregatorElement .condensed > a img,
+.news-agg-no-img .newsAggregatorElement .condensed > a {
+  display: none;
+  height: 0px;
+  width: 0px; }
+
+.bottomOptions .pageOptions {
+  padding-bottom: 20px; }
+
