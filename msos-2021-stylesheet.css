@@ -185,7 +185,8 @@ p {
 
 .linkElement .goToLink:after,
 .linkElement .emailLink:after {
-   margin: 0 0 0 10px; }
+   margin: 0 0 0 10px;
+   color: #fff; }
 
 /*** Home Page News & Events ***/
 .margin-thirty .newsAggregatorElement .item {
