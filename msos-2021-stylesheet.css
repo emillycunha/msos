@@ -752,15 +752,5 @@ html.nav-fixed .site-background {
     max-width: 1200px;
     background: #fff; }
 
-.sn-media-slider .slides .slide {
-  width: 1140px !important; }
-
-.sn-media-slider .slider.bottom-center-paging {
-  height: 641.25px !important; }
-
-.sn-media-slider .slides .slide .media-wrapper img {
-  width: 100% !important;
-  height: 100% !important; }
-
 .black-bg  {
   background-color: #000; }
