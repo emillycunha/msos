@@ -260,6 +260,15 @@ html.nav-fixed .site-background {
     max-width: 1200px;
     background: #fff; }
 
-.black-bg  {
-  background-color: #000; }
+/*** News CTA ***/
+.news-cta .sn-call-to-action .sn-call-to-action-overlay {
+    background-color: #000c;
+    height: 20%;
+    vertical-align: bottom;
+    top: 80%;
+    padding: 0px; }
 
+.news-cta .sn-call-to-action .sn-call-to-action-subtitle {
+  font-weight: 600;
+  text-align: left;
+  padding-left: 10px; }
