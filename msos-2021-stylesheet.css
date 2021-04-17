@@ -187,7 +187,8 @@ p {
 .linkElement .goToLink:after,
 .linkElement .emailLink:after {
    margin: 0 0 0 10px;
-   color: #fff; }
+   color: #f15e22;
+   content: "\f061"; }
 
 /*** Home Page News & Events ***/
 .margin-thirty .newsAggregatorElement .item {
