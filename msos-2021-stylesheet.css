@@ -122,8 +122,9 @@ p {
    font-size: 40px; }
    
 .call-to-action-header-alt .sn-call-to-action-title {   
-   font-size: calc(30px + (50 - 25) * ((100vw - 300px) / (2000 - 300)));
-   padding: 0px 50px; }
+   font-size: calc(30px + (70 - 15) * ((100vw - 300px) / (2000 - 300)));
+   padding: 0px 50px;
+   margin: 30px; }
 
 /* Our Story Page */
 .cutline {
