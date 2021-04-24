@@ -18,14 +18,14 @@
   color: #000; }
 
 #topNav .theme-nav-style-dropdown~.theme-nav-dropdown {
-   border-bottom: 3px solid #FA5C07; }
+   border-bottom: 3px solid #e00025; }
 
  #topNav .theme-main-nav .theme-nav > .theme-nav-item > .theme-nav-link:not(x):hover {
-   color: #FA5C07 !important; }
+   color: #e00025 !important; }
 
  #topNav .theme-nav-style-dropdown ~ .theme-nav-dropdown > .theme-nav-item > .theme-nav-link:not(x):hover {
    text-decoration: none;
-   background: #FA5C07; }
+   background: #e00025; }
 
 .theme-search-wrapper {
    display: none !important; }
