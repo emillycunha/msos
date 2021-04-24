@@ -29,13 +29,3 @@
 
 .theme-search-wrapper {
    display: none !important; }
-
-/* Page Header */
-#siteContainer #displayBodyHeader:not(.displayBodyHeader-image) {
-  padding-left: 30px !important;
-  border-bottom: 2px solid #e00025; }  
-
-/* Container Size */
-#siteContainer, #siteContainer #siteContainer.container-fluid {
-    max-width: 1200px;
-    background: #fff; }
