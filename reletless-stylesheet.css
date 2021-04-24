@@ -29,3 +29,8 @@
 
 .theme-search-wrapper {
    display: none !important; }
+
+/* Page Header */
+#siteContainer #displayBodyHeader:not(.displayBodyHeader-image) {
+  padding-left: 30px !important;
+  border-bottom: 2px solid #f15e22; }  
