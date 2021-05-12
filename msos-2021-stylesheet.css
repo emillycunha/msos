@@ -102,7 +102,7 @@ p {
    color: #ddd !important; }
 
 #siteContainer, #siteContainer #siteContainer.container-fluid {
-   padding-bottom: 0px !important; }
+   padding: 0px !important; }
 
 #poweredByNGIN a:after {
    display: none; }
