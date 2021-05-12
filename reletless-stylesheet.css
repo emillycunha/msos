@@ -29,3 +29,24 @@
 
 .theme-search-wrapper {
    display: none !important; }
+
+/* Footer Privacy */
+.snFooterContainer {
+   background-color: #0000;
+   color: #6c6c6c; }
+
+#siteFooter {
+   width: 100% !important;
+   max-width: 800px !important; }
+
+.se-footer-link a {
+   color: #000 !important; }
+
+.se-footer-copyright a {
+   color: #ddd !important; }
+
+#siteContainer, #siteContainer #siteContainer.container-fluid {
+   padding: 0px !important; }
+
+#poweredByNGIN a:after {
+   display: none; }
