@@ -33,22 +33,22 @@
 
 #topNav .theme-main-nav .theme-nav > .theme-nav-item.selected > .theme-nav-link {
   background-color: transparent;
-  color: #e00025; 
+  color: #e00025; }
 
 /* Footer Privacy */
 .snFooterContainer {
-   background-color: #FFF;
-   color: #6c6c6c; }
+   background-color: #fff !important;
+   color: #b1b1b1; }
 
 #siteFooter {
    width: 100% !important;
    max-width: 800px !important; }
 
 .se-footer-link a {
-   color: #000 !important; }
+   color: #fff !important; }
 
 .se-footer-copyright a {
-   color: #E00025 !important; }
+   color: #636363 !important; }
 
 #siteContainer, #siteContainer #siteContainer.container-fluid {
    padding: 0px !important; }
