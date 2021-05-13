@@ -37,7 +37,7 @@
 
 /* Footer Privacy */
 .snFooterContainer {
-   background-color: #0000;
+   background-color: #FFF;
    color: #6c6c6c; }
 
 #siteFooter {
@@ -48,7 +48,7 @@
    color: #000 !important; }
 
 .se-footer-copyright a {
-   color: #ddd !important; }
+   color: #E00025 !important; }
 
 #siteContainer, #siteContainer #siteContainer.container-fluid {
    padding: 0px !important; }
