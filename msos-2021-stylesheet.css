@@ -13,30 +13,6 @@ p {
    font-size: 18px; 
    color: #000; }
 
-/* text box margin */
-.margin-ten {
-   padding: 10px; }
-.margin-twenty {
-   padding: 20px; }
-.margin-thirty {
-   padding: 30px; }
-.margin-forty {
-   padding: 40px; }
-.margin-fifty {
-   padding: 50px; }
-
-@media(max-width: 500px) {
-.margin-ten {
-   padding: 10px 5px;}
-.margin-twenty {
-   padding: 20px 5px;}
-.margin-thirty {
-   padding: 30px 5px;}
-.margin-forty {
-   padding: 40px 5px;}
-.margin-fifty {
- padding: 50px 5px; }}
-
 /* Top Header */
 #topNav .theme-main-nav { 
    background-color: #000 !important; }
@@ -107,12 +83,6 @@ p {
 #poweredByNGIN a:after {
    display: none; }
 
-/* Font Awesome */
-.fa, .far, .fas {
-   text-align: center;
-   width: 100%;
-   color: #000; } 
-
 /* Home Page */
 .sn-call-to-action:before,
 .sn-call-to-action:after {
@@ -162,21 +132,6 @@ p {
    color: #fff;
    font-size: calc(40px + (70 - 30) * ((100vw - 300px) / (2000 - 300)));
    text-align: center; }
-
-/* Federation Logo - Page Footer */
-.partners-container {
-  padding: 0px 100px !important; }
-
-.partners-logo .textBlockElement img {
-  display: initial !important; }
-
-@media(max-width: 650px) {
-.partners-container {
-  padding: 0px !important;}
-  
-.partners-logo .textBlockElement img {
-  height: 50px !important;
-  width: 50px !important; }}
 
 /*** Button Link ***/
 .linkElement h4 a {
