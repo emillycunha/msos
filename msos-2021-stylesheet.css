@@ -42,13 +42,14 @@
  
  #siteFooter {
     width: 100% !important;
-    max-width: 800px !important; }
+    max-width: 800px !important;
+    padding: 20px !important; }
  
  .se-footer-link a {
     color: #000 !important; }
  
  .se-footer-copyright a {
-    color: #ddd !important; }
+    color: #777 !important; }
  
  #siteContainer, #siteContainer #siteContainer.container-fluid {
     padding: 0px !important; }
