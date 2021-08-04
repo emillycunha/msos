@@ -64,6 +64,17 @@
  [class*=nb-sportngin]:not(.nb-sportngin--mobile){
    display: none !important; }
  
+.heroPhotoElement img {
+ border: none; }
+
+/** full width layout **/
+#panelTwo > div.yieldPageContent > div.layoutContainer.row.black {
+    width: calc(100vw - 0px);
+    background: #000000;
+    box-sizing: border-box;
+    margin-left: calc(-1*(100vw - 100%)/2);
+    padding: 0px calc((100vw - 100%)/2); }  
+
 
 
  
