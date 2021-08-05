@@ -103,6 +103,7 @@ p {
 /* Black Container */
 
 .black {
+     background-color: #000;
     color: #fff; }
 .black h1, .black h2, .black h3, .black h4, .black  h5, .black h6, .black a {
     color: #ffffff; }
@@ -111,6 +112,7 @@ p {
 
 /* Black Container Alt*/
 .black-alt {
+     background-color: #000;
     color: #fff; }
 .black-alt h1, .black-alt h2, .black-alt h3, .black-alt h4, .black-alt  h5, .black-alt h6 {
     color: #ffffff; }
