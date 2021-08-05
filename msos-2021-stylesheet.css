@@ -355,5 +355,8 @@ p {
 .cutline {
     text-align: right; }
  
+html.nav-fixed {
+  padding-bottom: 0px;
+}
 
  
