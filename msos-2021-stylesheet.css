@@ -63,17 +63,7 @@
  /*** remove sportsengine logo from top bar ***/
  [class*=nb-sportngin]:not(.nb-sportngin--mobile){
    display: none !important; }
- 
-.heroPhotoElement img {
- border: none; }
 
-/** full width layout **/
-#panelTwo > div.yieldPageContent > div.layoutContainer.row.black {
-    width: calc(100vw - 0px);
-    background: #000000;
-    box-sizing: border-box;
-    margin-left: calc(-1*(100vw - 100%)/2);
-    padding: 0px calc((100vw - 100%)/2); }  
 
 /*** START ***/
 
@@ -111,11 +101,7 @@ p {
 .margin-fifty { padding: 25px 5px; }}    
 
 /* Black Container */
- .black.layoutContainer {
-   /** margin-left: -15px;
-    margin-right: -15px;
-    background-color: #000000; */
-    color: #fff; }
+
 .black {
     color: #fff; }
 .black h1, .black h2, .black h3, .black h4, .black  h5, .black h6, .black a {
@@ -124,13 +110,7 @@ p {
     color: #fff; }
 
 /* Black Container Alt*/
-.black-alt.layoutContainer {
-    margin-left: -15px;
-    margin-right: -15px;
-    background-color: #000000;
-    color: #fff; }
 .black-alt {
-    background-color: #000000;
     color: #fff; }
 .black-alt h1, .black-alt h2, .black-alt h3, .black-alt h4, .black-alt  h5, .black-alt h6 {
     color: #ffffff; }
