@@ -144,7 +144,7 @@ p {
     background: #000000;
     box-sizing: border-box;
     margin-left: calc(-1*(100vw - 100%)/2);
-    padding: 0px calc((100vw - 100%)/2); }  
+    padding: 0px calc((80vw - 100%)/2); }  
 
 /*** Program Banner ***/
 #panelTwo > div.yieldPageContent > div.layoutContainer.row.banner {
@@ -199,8 +199,8 @@ p {
 .black-divider-bold .hrElement {
     border: #000 solid ;
     border-top-width: 1px !important;
-    margin-left: -35px;
-    margin-right: -35px;  }
+    margin-left: -250px;
+    margin-right: -250px;  }
 
 #siteContainer #displayBodyHeader:not(.displayBodyHeader-image) {
     padding-left: 30px !important;
