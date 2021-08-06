@@ -63,3 +63,8 @@
  /*** remove sportsengine logo from top bar ***/
  [class*=nb-sportngin]:not(.nb-sportngin--mobile){
    display: none !important; }
+
+/* Remove frame from photo page elements */
+.heroPhotoElement img {
+    border: 0px; }
+
