@@ -63,3 +63,7 @@
 
 .theme-nav-style-slide .theme-nav-item {
   border-color: #000; }
+
+/*** Img Border **/    
+.heroPhotoElement img {
+        border: 0px; }
