@@ -75,3 +75,7 @@
     margin-left: calc(-1*(100vw - 100%)/2);
     padding: 0px calc((100vw - 100%)/2); }
 
+/*** CTA ***/
+.sn-call-to-action:before,
+.sn-call-to-action:after {
+    display: none; }
