@@ -79,3 +79,10 @@
 .sn-call-to-action:before,
 .sn-call-to-action:after {
     display: none; }
+
+/*** Mobile Menu ***/
+#PageSearchBoxMobileNav.theme-search-box {
+  display: none; }
+
+.theme-nav-style-slide .theme-nav-item {
+  border-color: #000; }
