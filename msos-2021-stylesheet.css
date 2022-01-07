@@ -86,3 +86,15 @@
 
 .theme-nav-style-slide .theme-nav-item {
   border-color: #000; }
+
+html.collapsed-mobile-nav .theme-nav-style-slide {
+  background: #000;
+}
+
+.theme-nav-link {
+  text-transform: uppercase;
+}
+
+.theme-nav-style-slide .theme-nav-title-text {
+  font-weight: 700;
+}
